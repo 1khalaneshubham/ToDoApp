@@ -1,0 +1,27 @@
+* {
+    background-color: rgb(191, 129, 230);
+
+}
+h1 {
+    text-align: center;
+    background-color: rgb(69, 240, 27);
+}
+
+button {
+    background-color: rgb(51, 197, 241);
+    border-radius: 50px ;
+}
+input {
+    height: 22px;
+    width:300px;
+    background-color: rgb(46, 241, 196);
+    border-radius: 50px;
+    
+}
+
+li {
+    /* background-color: blue; */
+    text-align: left;
+    width: 200px;
+}
+
