@@ -25,6 +25,11 @@ To use the todo app, simply open the `index.html` file in your web browser. You 
 - `script.js`: The JavaScript file containing the logic for the todo app.
 - `README.md`: The README file containing information about the todo app.
 
+## Screenshots
+
+![Screenshot 1]()
+![Screenshot 2]()
+
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to the development of this todo app, please fork the repository and submit a pull request.
