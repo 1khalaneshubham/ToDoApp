@@ -28,7 +28,6 @@ To use the todo app, simply open the `index.html` file in your web browser. You 
 ## Screenshots
 
 ![Screenshot 1](https://github.com/1khalaneshubham/ToDoApp/blob/main/Screenshot%20from%202024-04-26%2001-42-44.png)
-![Screenshot 2](https://github.com/1khalaneshubham/ToDoApp/blob/main/Screen%20Shot%202024-04-26%20at%2001.41.53.png)
 
 ## Contributing
 
